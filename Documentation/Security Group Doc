@@ -1,4 +1,10 @@
-Domain Name: NMG.com
-Domain Controller Name: WIN-IFF543OIEUP
-Static IP: 192.168.1.10
-Date Completed:07/22/2026
+Domain name: NMG.com
+OUs created: Finance, HR, IT, Operations
+Security groups created: Finance-Users, HR-Users, IT-Users, Operations-Users
+Purpose of each OU: 
+Finance: This department represents the companies financial auditors, accountants and legal team.
+HR:This department represents the comapnies operations and enrollement team.
+IT: This department represents the helpdesk and security team 
+Operatioins: This department represents the leadership and marketing team
+Date completed:07/24/2026
+

@@ -7,8 +7,7 @@ The problem in this project was related to a fictional company I was working for
 The solution was to build out a basic employee onboarding pipeline in Active Directory. I set up an RBAC matrix and ensured that the users were given access to ONLY the things required for the role. I also simulated a mock ticket where a user was provisioned the incorrect level of access.
 
 ## Video Walkthrough
-(https://www.loom.com/share/0da2a3ab15f34b1cbca42458392b8690)
-
+https://www.loom.com/share/0da2a3ab15f34b1cbca42458392b8690
 ## Tools Used
 * Windows Server
 * Active Directory Domain Services
